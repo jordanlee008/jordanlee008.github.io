@@ -4,5 +4,6 @@ title: About me
 ---
 
 ## Intro
-I'm an undergraduate student at Harvard University planning on studying computer science and statistics.
-I enjoy playing the cello and am an avid member of Harvard Men's Ultimate Frisbee.
+I am currently a quantitative trader in New York City.
+I recently graduated from Harvard University with a degree in Computer Science.
+My interests include reading, ultimate frisbee, and golf.
