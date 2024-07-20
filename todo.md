@@ -1,6 +1,4 @@
 # Setup
-- Site layout
-    - Consider different website boiler plate
 - Site look
     - Logos/etc
 - Initial posts

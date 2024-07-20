@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Post 0
+tags: personal
 ---
 
 ## What is this?

@@ -66,8 +66,8 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
-  email: "jordanlee@college.harvard.edu"
+# rss: false
+#  email: "jordanlee@college.harvard.edu"
   github: jordanlee008
   linkedin: jordanlee008
 #  facebook: deanattali
@@ -86,9 +86,9 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
